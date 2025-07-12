@@ -32,7 +32,7 @@ A simple and interactive web-based currency converter built with **HTML**, **CSS
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot.png)  
+![Screenshot](Screenshot.png)  
 
 ---
 
