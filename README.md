@@ -7,7 +7,7 @@ A simple and interactive web-based currency converter built with **HTML**, **CSS
 ## 🌍 Features
 
 - 🌐 Convert any currency to another instantly
-- 🇺🇸 Country flags shown for selected currencies
+- 🏳️ Country flags shown for selected currencies
 - 📡 Real-time exchange rates using public API
 - 💡 Input validation for user-friendly experience
 - 📱 Fully responsive and clean UI
