@@ -16,7 +16,7 @@ A simple and interactive web-based currency converter built with **HTML**, **CSS
 
 ## 🚀 Live Demo
 
-> [View Live](https://github.com/Githubdhruv590/Currency-Converter)  
+> [View Live](https://github.com/Githubdhruv590.github.io/Currency-Converter)  
 
 ---
 
